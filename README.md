@@ -1,6 +1,7 @@
 ## Hi there, I'm Vitali 👋
 
 I'm a Front-End Developer with expertise in JavaScript and Angular, focussing on writing clean and efficient code.
+   
 
 ## 🛠️ My Front-End Tech Stack
 
@@ -12,17 +13,14 @@ I'm a Front-End Developer with expertise in JavaScript and Angular, focussing on
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material--Design-757575?style=for-the-badge&logo=google&logoColor=white)
 
-
-
-
-
-
-
+   
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitali21MBC&layout=compact&theme=radical)
 
- 📫 How to reach me: [My Portfolio](https://vitali-rudi-dev.de) 
+   
+## 📫 How to reach me: **[My Portfolio](https://vitali-rudi-dev.de)** 
+   
 
 Check out my projects below. Let's connect and collaborate on exciting projects!
 
