@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Vitali 👋
+
+I'm a Front-End Developer with experience in JavaScript & Angular and focussing on clean and efficient code.
 
 ## 🛠️ My Tech Stack
 
@@ -16,6 +18,10 @@ Here are some of the technologies I work with:
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitali21MBC&layout=compact&theme=radical)
+
+ 📫 How to reach me: [My Portfolio](https://vitali-rudi-dev.de) 
+
+Check out my projects below. Let's connect and collaborate on exciting projects!
 
 <!--
 **Vitali21MBC/Vitali21MBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
